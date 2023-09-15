@@ -1,0 +1,14 @@
+.serviceCenter{
+    text-align: center;
+    text-decoration-style: bolder;
+    font-weight: bold;
+}
+
+.card{
+    height : 300px;
+    width: 400px;
+}
+
+.services.cap{
+    color: red;
+}

@@ -1,0 +1,36 @@
+.single-slider{
+    background-image: url('src/app/assets/jobseeker-glossary.jpg');
+}
+
+
+.container{
+    margin-top: 50px;
+    margin-left:200px;
+}
+
+form.search-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+form.search-box .search-form {
+    width: 45%;
+}
+
+.mt-2{
+    margin-top: 0.5 rem !important;
+}
+
+.mb-2{
+    color: red;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.btn-primary{
+    padding-left: 30px;
+    background-color: red;
+}
